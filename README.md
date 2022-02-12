@@ -7,7 +7,7 @@
 * I'm a telematics engeneering student at Instituto Politecnico Nacional
 * I’m interested in **software development**, **Internet of Things** and **Machine Learning**.
 * I’m currently learning English, *Backend* and *Frontend Development*, git, frameworks like Spring Boot and Angular. 
-* You can contact me by _**[gmail](mailto:dfloresc99@gmail.com)**_ or _**[linkedin](www.linkedin.com/in/dfloresc1602)**_
+* You can contact me by _**[gmail](mailto:dfloresc99@gmail.com)**_ or _**[linkedin](https://www.linkedin.com/in/dfloresc1602)**_
 
 # 📊 Github Stats
 
